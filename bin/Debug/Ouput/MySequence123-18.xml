@@ -1,0 +1,5 @@
+<tt:tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ebuttm="urn:ebu:tt:metadata" xmlns:ebutts="urn:ebu:tt:style" xmlns:ebuttp="urn:ebu:tt:parameters" xmlns:ext="http://some-extension-namespace" xml:space="default" ttp:timeBase="smpte" ttp:frameRate="25" ttp:frameRateMultiplier="1 1" ttp:markerMode="discontinuous" ttp:dropMode="nonDrop" ttp:cellResolution="50 29" xml:lang="nl" ebuttp:sequenceIdentifier="MySequence123" ebuttp:sequenceNumber="18">
+  <tt:body style="defaultStyle">
+    <tt:div />
+  </tt:body>
+</tt:tt>
