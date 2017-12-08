@@ -1,8 +1,0 @@
-C:\Users\colin.france\Documents\dev\LiveSubs\NuforRx\obj\Debug\NuforRx.csprojResolveAssemblyReference.cache
-C:\Users\colin.france\Documents\dev\LiveSubs\NuforRx\bin\Debug\NuforRx.exe.config
-C:\Users\colin.france\Documents\dev\LiveSubs\NuforRx\bin\Debug\NuforRx.exe
-C:\Users\colin.france\Documents\dev\LiveSubs\NuforRx\bin\Debug\NuforRx.pdb
-C:\Users\colin.france\Documents\dev\LiveSubs\NuforRx\obj\Debug\NuforRx.exe
-C:\Users\colin.france\Documents\dev\LiveSubs\NuforRx\obj\Debug\NuforRx.pdb
-C:\Users\colin.france\Documents\dev\LiveSubs\NuforRx\bin\Debug\Messages\ClearTemplate.xml
-C:\Users\colin.france\Documents\dev\LiveSubs\NuforRx\bin\Debug\Messages\OnAirTemplate.xml
